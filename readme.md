@@ -1,5 +1,5 @@
 <h1>Skyline CSS Practice</h1>
-<p>This code was created as part of the www.FreeCodeCamp.org 's "Responsive Web Design" chapter.<br></p>
+<p>This code was created as part of the [FreeCodeCamp's](https://www.freecodecamp.org/) "Responsive Web Design" chapter.<br></p>
 
 
 <p>The primary lesson learned was utilizing a variety of css variables in the :root selector located in the styles.css sheet. This allows us to call the variables wherever in our css and change many colors with just 1 edit.<br><p>
