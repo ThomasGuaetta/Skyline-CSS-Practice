@@ -9,5 +9,5 @@ It utilizes a @media query to feature a responsive color-scheme to switch betwee
 <img src = "https://github.com/ThomasGuaetta/Skyline-CSS-Practice/blob/main/Docs/1001px.png">
 
 <h1>Day Time View - Occurs when width <= 1000px</h1>
-![NightTime](https://github.com/ThomasGuaetta/Skyline-CSS-Practice/blob/main/Docs/1000px.png "Day Time View - Occurs when width <= 1000px")
+<img src = "https://github.com/ThomasGuaetta/Skyline-CSS-Practice/blob/main/Docs/1000px.png">
 
