@@ -1,4 +1,4 @@
-This code was created as part of the www.FreeCodeCamp.org's "Responsive Web Design" chapter.
+This code was created as part of the www.FreeCodeCamp.org 's "Responsive Web Design" chapter.
 
 The primary lesson was utilizing a variety of css variables in the :root selector located in the styles.css sheet. This allows us to call the variables wherever in our css and change many colors with just 1 edit.
 
